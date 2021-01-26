@@ -1,5 +1,6 @@
 # windows-setup
 
+package manager : https://chocolatey.org/
 package manager : https://github.com/microsoft/winget-cli
 
 ## bin directory
