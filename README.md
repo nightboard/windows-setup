@@ -15,3 +15,8 @@ PATH = C:\Users\Admin\bin
 ## winget
 For perticular match
 > winget install -e Microsoft.Powershell
+
+## compile AutoHotKey file
+-> right click on file and there will be compilation option or google that
+-  Put that executable file in startup folder at C:\Users\{Username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup or type “shell:startup” in run.
+-  Now that executable file run every time when windows boot up
